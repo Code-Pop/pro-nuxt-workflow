@@ -2,7 +2,7 @@
   <main>
     <h1 class="article__heading">Top News</h1>
     <section class="article__section">
-      <LazyArticleCard
+      <ArticleCard
         v-for="(article, index) in articles"
         :key="index"
         :article="article"
@@ -11,6 +11,7 @@
   </main>
 </template>
 <script setup>
+  import ArticleCard from "@/components/ArticleCard.vue";
   import { articles } from "@/utils/articles.json";
 </script>
 <style lang="scss" scoped>

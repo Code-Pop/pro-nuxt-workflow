@@ -1,6 +1,6 @@
 <template>
   <div class="article__div">
-    <NuxtImg class="article__img" :src="article.urlToImage" :alt="article.title" />
+    <img class="article__img" :src="article.urlToImage" :alt="article.title" />
     <div class="article__item-div">
       <p>{{ article.title }}</p>
       <p>{{ article.author }}</p>
