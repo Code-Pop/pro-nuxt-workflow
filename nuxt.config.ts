@@ -1,7 +1,6 @@
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  routeRules: {
-    "/": { prerender: true },
-    "/admin/**": { ssr: false },
-    "/blog": { isr: 3600 },
-  },
-});
+  devtools: { enabled: true },
+  modules: ["@nuxt/ui", "@nuxt/image", "@nuxt/icon"],
+  compatibilityDate: "2024-08-14"
+})
