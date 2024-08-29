@@ -1,8 +1,17 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  devtools: { enabled: true },
-  modules: ['@nuxt/content'],
-  routeRules: {
-    '/': { prerender: true }
-  }
-})
+  devtools: {
+    enabled: true,
+    customTabs: [
+      {
+        name: "histoire",
+        title: "Histoire",
+        icon: "/histoire-logo.svg",
+        view: {
+          type: "iframe",
+          src: "http://localhost:6006/",
+        },
+      },
+    ],
+  },
+});
