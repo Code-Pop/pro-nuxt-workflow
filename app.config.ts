@@ -2,11 +2,6 @@ export default defineAppConfig({
   ui: {
     strategy: "override",
     primary: "cool",
-    avatar: {
-      size: {
-        xl: "h-32 w-32",
-      },
-    },
     card: {
       background: "bg-transparent",
       divide: "divide-none",

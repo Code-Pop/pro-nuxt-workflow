@@ -1,32 +1,3 @@
-<script setup>
-const items = [
-  {
-    key: "posts",
-    label: "Posts",
-  },
-  {
-    key: "replies",
-    label: "Replies",
-  }
-]
-const posts = [
-  {
-    content: "Check out our latest courses on vuemastery.com"
-  },
-  {
-    content: "Vue Vapor mode content coming soon!"
-  }
-]
-const replies = [
-  {
-    content: "The Nuxt 3 Devtools are packed with features. Learn how to use them!"
-  },
-  {
-    content: "Check out the many different ways to use Nuxt icons in your Nuxt app!"
-  }
-]
-</script>
-
 <template>
   <div class="grid justify-center">
     <div class="border-x border-gray-600">
@@ -49,19 +20,6 @@ const replies = [
           <h5 class="text-[#2C9AF0] text-base">vuemastery.com/courses</h5>
         </a>
       </div>
-      <!-- Tabs -->
-      <UTabs :items="items">
-        <template #default="{ item, selected }">
-          <div v-if="selected" class="flex items-center align-center gap-2 relative border-b-4 border-[#2C9AF0]">
-            <span class="m-2 align-center">{{ item.label }}</span>
-          </div>
-        </template>
-
-        <template #item="{ item }">
-          <Posts v-if="item.key === 'posts'" :items="posts" />
-          <Posts v-else-if="item.key === 'replies'" :items="replies" />
-        </template>
-      </UTabs>
     </div>
   </div>
 </template>
