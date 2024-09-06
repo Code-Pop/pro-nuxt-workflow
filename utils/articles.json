@@ -1,7 +1,11 @@
 {
   "articles": [
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 1,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Trey Herr",
       "title": "CISA’s security-by-design initiative is at risk: Here’s a path forward | TechCrunch",
       "description": "Success with security-by-design is at risk, both from the political challenges of implementation and the threat of unrealistic expectations.",
@@ -11,7 +15,11 @@
       "content": "The Biden administrations 2023 National Cybersecurity Strategy identified structural shortcomings in the state of cybersecurity, calling out the failure of market forces to adequately distribute resp… [+6742 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 2,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Haje Jan Kamps",
       "title": "If it hadn’t been for them meddlin’ kids | TechCrunch",
       "description": "Welcome to Startups Weekly! From robots to AI generated porn, we have your startup news from the week right here.",
@@ -21,7 +29,11 @@
       "content": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.\r\nNot to get all GrumpyManYellsAtCloud.gif, but Im getting pretty tired of the myth of the dropped-out-of-college founder… [+7176 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 3,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Sarah Perez",
       "title": "Twitter, now X, opens up its ad revenue sharing program with global creators",
       "description": "Earlier this month, Twitter — which has since rebranded as X — began sharing ad revenue with verified creators in an attempt to retain top talent on its platform. Today, the company announced its “Ads Revenue Sharing” program is now available for eligible cre…",
@@ -31,7 +43,11 @@
       "content": "Earlier this month, Twitter — which has since rebranded as X — began sharing ad revenue with verified creators in an attempt to retain top talent on its platform. Today, the company announced its “Ad… [+2390 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 4,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Aisha Malik",
       "title": "NASA is launching its own streaming service later this year | TechCrunch",
       "description": "The government agency announced that it's going launch a new streaming service later this year called NASA+.",
@@ -41,7 +57,11 @@
       "content": "NASA is getting in on the “+” streaming action. The government agency announced that it’s going to launch a new streaming service later this year called NASA+. The ad-free, no-cost streaming service … [+1824 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 5,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Haje Jan Kamps",
       "title": "Sample Series B pitch deck: Unito's $20M deck | TechCrunch",
       "description": "Here's how Unito, which offers users a unique way to connect their tools, raised $20 million in its Series B funding round.",
@@ -51,7 +71,11 @@
       "content": "Unito is a platform that takes a different approach to managing SaaS apps. Today we’ll take a look at how the company’s pitch deck helped it raise $20 million in Series B funding last year.\r\nWe’re lo… [+4020 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 6,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Natasha Lomas",
       "title": "Worldcoin's official launch triggers swift privacy scrutiny in Europe | TechCrunch",
       "description": "Worldcoin, OpenAI CEO Sam Altman's bid to sew up the market for verifying humanness only started its official global rollout this week but it's already landed on the radar of European data protection authorities.",
@@ -61,7 +85,11 @@
       "content": "Worldcoin, OpenAI CEO Sam Altman’s bid to sew up the market for verifying humanness by convincing enough mobile meatsacks to have their eyeballs scanned in exchanged for crypto tokens (yes, really), … [+10637 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 7,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Amanda Silberling",
       "title": "Fan fiction writers rally fandoms against KOSA, the bill purporting to protect kids online | TechCrunch",
       "description": "Fan fiction writers aren’t just penning alternate universe and steamy scenes. This week, they’re writing letters to their Senators.",
@@ -71,7 +99,11 @@
       "content": "Fan fiction writers arent just penning alternate universe reimaginings of the Barbie movie, or steamy scenes featuring Marvel superheroes. This week, theyre writing letters to their senators, express… [+7064 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 8,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Walter Thompson",
       "title": "TechCrunch+ Roundup: SAFE founder survey, replacing a CEO, how cyber insurance works | TechCrunch",
       "description": "Replacing a CEO is a complicated process: senior executives and board members should be in alignment, and founders must be ready to let go.",
@@ -81,7 +113,11 @@
       "content": "A friend recently spent months getting into shape for a physical so he could obtain a lower insurance rate. He got the policy and plans to continue working out because he feels so much healthier.\r\nTe… [+4458 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 9,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Brian Heater",
       "title": "Google’s DeepMind team highlights new system for teaching robots novel tasks | TechCrunch",
       "description": "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries.",
@@ -91,7 +127,11 @@
       "content": "One of the first things you discover in the world of robotics is the complexity of simple tasks. Things that appear simple to humans have potentially infinite variables that we take for granted. Robo… [+2370 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 10,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Lauren Simonds",
       "title": "Startups, apply to the Space Domain Awareness Challenge Pitch-off at TC Disrupt 2023 | TechCrunch",
       "description": "Does your space startup “dabble” in Space Domain Awareness? Then we want you to apply now to our elite pitch-off at TechCrunch Disrupt 2023!",
@@ -101,7 +141,11 @@
       "content": "Pitch in space! Okay, not really, but we do have exciting news for early-stage AI/ML startups. The Aerospace Corporation and TechCrunch are hosting a pitch competition at TechCrunch Disrupt 2023, whi… [+3444 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 11,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Alex Wilhelm",
       "title": "Global web3 venture funding on pace to decline for seventh straight quarter | TechCrunch",
       "description": "According to the Crunchbase Web3 Tracker, funding to crypto startups around the world is on pace to notch its seventh-consecutive quarterly decline.",
@@ -111,7 +155,11 @@
       "content": "Time flies, doesn’t it? We’re nearly through the first month of Q3, which means we can finally start taking note of the trends that will define the rest of the year, or if long-lasting trends are set… [+947 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 12,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Rebecca Szkutak",
       "title": "What makes everyone so sure SAFE rounds are founder-friendly?",
       "description": "While SAFEs are generally considered founder friendly, when you get into the details it's less clear why they would be over priced rounds.",
@@ -121,7 +169,11 @@
       "content": "SAFEs, simple agreements for future equity, have long been touted as a founder-friendly structure for signing venture deals. But is it really fair to call them that?\r\nTechCrunch+ recently surveyed a … [+1029 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 13,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Sarah Perez",
       "title": "Apple’s App Store tightens up on user privacy with new rules for app developers",
       "description": "Apple for years has made user privacy a focus for its App Store with rules around data collection, plus requirements around app labeling, anti-tracking measures, and the more private “Sign in with Apple” option. Now, Apple will begin to require that developer…",
@@ -131,7 +183,11 @@
       "content": "Apple for years has made user privacy a focus for its App Store with rules around data collection, plus requirements around app labeling, anti-tracking measures, and the more private “Sign in with Ap… [+2999 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 14,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Haje Jan Kamps",
       "title": "Podcast Script: The Dark Web | TechCrunch",
       "description": "The dark web is a lot of things; user-friendly ain't one of them. The 'Dark Web Gift Shop,' tries to at least give you a little bit of a reward for your struggles",
@@ -141,7 +197,11 @@
       "content": "PODCAST VO SCRIPT, [unpublished]\r\nHaje: The dark web is a lot of things; particularly user-friendly ain’t one of them. The other day, I got an amazing tip about ‘Dark Web Gift Shop,’ which tries to a… [+1012 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 15,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Amanda Silberling",
       "title": "Elon Musk’s Twitter (now X): Everything you need to know, from layoffs to verification",
       "description": "Welcome to Elon Musk’s Twitter (now X), where the rules are made up and the check marks don’t matter. The Tesla and SpaceX CEO first announced his bid to buy Twitter in April 2022, zealously driven to rid the platform of spam bots and protect free speech. “Th…",
@@ -151,7 +211,11 @@
       "content": "Welcome to Elon Musks Twitter (now X), where the rules are made up and the check marks dont matter.\r\nThe Tesla and SpaceX CEO first announced his bid to buy Twitter in April 2022, zealously driven to… [+46753 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 16,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Richard Smith",
       "title": "Announcing the AI Stage agenda at TechCrunch Disrupt 2023 | TechCrunch",
       "description": "AI is everywhere it seems, and you’ll find plenty of hot topics on the agenda for the new AI Stage at TechCrunch Disrupt 2023. Check it out!",
@@ -161,7 +225,11 @@
       "content": "After a few years of being background noise, AI has suddenly become ubiquitous. From consumer apps to enterprise tools to medical devices, nearly everything claims to be “powered by AI” these days. B… [+4738 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 17,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Alex Wilhelm",
       "title": "It's always earnings season if you look hard enough | TechCrunch",
       "description": "Listen here or wherever you get your podcasts. Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Friday show, and we’re talking about the week’s biggest startup…",
@@ -171,7 +239,11 @@
       "content": "Listen here or wherever you get your podcasts.\r\nHello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nThis is our F… [+723 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 18,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Jacquelyn Melinek",
       "title": "Boys Club co-founders want crypto skeptics to see it as a tool, ‘not just a vehicle for finance or investments’",
       "description": "Boys Club, a social DAO for the crypto curious, joined TechCrunch's Chain Reaction to talk about web3 trends and diversifying the industry.",
@@ -181,7 +253,11 @@
       "content": "Welcome back to Chain Reaction, a podcast that unpacks and dives deep into the latest trends, drama and news in crypto with some of the biggest names in the industry to break things down block by blo… [+3059 chars]"
     },
     {
-      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "id": 19,
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
       "author": "Jacquelyn Melinek",
       "title": "Sequoia Capital cuts crypto, ecosystem funds by over 50% as it continues to downsize | TechCrunch",
       "description": "Sequoia Capital is the latest to pull back from crypto, paring down two major venture funds, including its crypto fund, in an effort to downsize.",

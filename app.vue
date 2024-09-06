@@ -3,8 +3,8 @@
     <h1 class="article__heading">Top News</h1>
     <section class="article__section">
       <LazyArticleCard
-        v-for="(article, index) in articles"
-        :key="index"
+        v-for="article in articles"
+        :key="article.id"
         :article="article"
       />
     </section>
